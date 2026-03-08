@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-<a href="YOUR_LINKEDIN_LINK"><img src="https://www.linkedin.com/in/krish-chimurkar"></a>
+<a href="https://www.linkedin.com/in/krish-chimurkar/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
 <a href="mailto:krishchimurkar12@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
 <a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"></a>
 </p>
